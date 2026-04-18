@@ -1,2 +1,4 @@
 # JSP-SHOPPING-CART
-AUTHOR - SNIKDHA PAIK
+Author - SNIKDHA PAIK
+<br> 
+this is my first project
